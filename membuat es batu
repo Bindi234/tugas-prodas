@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    double suhu = 25.0; // Suhu dalam derajat Celsius
+    double air = 100.0; // Jumlah air dalam mililiter
+
+    // Proses pembekuan (simulasi)
+    // ...
+
+    cout << "Es batu selesai terbentuk!" << endl;
+    return 0;
+}
